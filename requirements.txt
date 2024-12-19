@@ -1,6 +1,6 @@
-gradio
-langchain
-langchain-groq
-python-dotenv
-langchain_community
-GoogleTranslator
+gradio==5.9.1
+langchain==0.3.12
+langchain-groq==0.2.1
+python-dotenv==1.0.1
+langchain_community==0.3.8
+deep-translator==1.8.1
